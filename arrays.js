@@ -1,2 +1,2 @@
 
-var newarray = [Kathy, ]
+var newarray = ["Kathy", "Rebecca", "Steven"]
