@@ -1,4 +1,6 @@
 
 var newarray = ["Kathy", "Rebecca", "Steven"];
 
-console.log(newarray.length)
+newarray.push("Becky");
+
+console.log(newarray.length);
